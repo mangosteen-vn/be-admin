@@ -10,9 +10,9 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
-        "mangosteen/database":"dev-main",
-        "mangosteen/models":"dev-master",
-        "mangosteen/mangosteen":"dev-main"
+        "mangosteen/database":"dev-dev",
+        "mangosteen/models":"dev-dev",
+        "mangosteen/mangosteen":"dev-dev"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
