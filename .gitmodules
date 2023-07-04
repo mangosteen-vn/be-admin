@@ -1,0 +1,13 @@
+[submodule "modules/mangosteen"]
+	path = modules/mangosteen
+	url = https://github.com/mangosteen-vn/mangosteen.git
+	branch = dev
+[submodule "modules/database"]
+	path = modules/database
+	url = https://github.com/mangosteen-vn/database.git
+	branch = dev
+[submodule "modules/models"]
+	path = modules/models
+	url = https://github.com/mangosteen-vn/models.git
+	branch = dev
+
